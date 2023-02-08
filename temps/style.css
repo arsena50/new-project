@@ -2,11 +2,11 @@ body {
   position: relative;
   width: 1920px;
   height: 1080px;
-  background-image: url(/img/shutterstock_2189773743\ 1.png);
+  background-image: url(/new-project/img/shutterstock_2189773743\ 1.png);
 }
 .logo-1 {
   position: absolute;
-  background-image: url(/img/LOGO-02\ 3.png);
+  background-image: url(/new-project/img/LOGO-02\ 3.png);
   width: 236px;
   height: 38px;
   left: 70px;
@@ -14,7 +14,7 @@ body {
 }
 .logo-2 {
   position: absolute;
-  background-image: url(/img/LOGO-40\ 1.png);
+  background-image: url(/new-project/img/LOGO-40\ 1.png);
   width: 299px;
   height: 299px;
   left: 1076px;
