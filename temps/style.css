@@ -1,4 +1,4 @@
-/* Убираем все отступы */
+
 * {
   margin: 0;
   padding: 0;
@@ -11,13 +11,13 @@
   box-sizing: inherit;
 }
 
-/* При расчете размеров инпутов учитываем внутренние отступы и границы */
+
 input,
 textarea {
   box-sizing: border-box;
 }
 
-/* В body устанавливаем шрифт, ширину и высоту, а также фон */
+
 body {
   line-height: 1.2;
   width: 1920px;
@@ -27,11 +27,6 @@ body {
   justify-content: center; /* чтобы контейнер */
   align-items: center; /* был по центру */
 }
-
-
-
-
-
 .logo-1 {
   position: absolute;
   background-image: url(/new-project/img/LOGO-02\ 3.png);
