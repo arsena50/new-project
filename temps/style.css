@@ -24,8 +24,8 @@ body {
   min-height: 100vh;
   background-image: url(/new-project/img/shutterstock_2189773743\ 1.png);
   display: flex;
-  justify-content: center; /* чтобы контейнер */
-  align-items: center; /* был по центру */
+  justify-content: center; 
+  align-items: center; 
 }
 .logo-1 {
   position: absolute;
